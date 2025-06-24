@@ -27,3 +27,4 @@ function mainPartidaRankeada(vitorias, derrotas){
 }
 
 console.log(mainPartidaRankeada(100, 10))
+console.log("Com grandes poderes, vêm grandes responsabilidades.")
